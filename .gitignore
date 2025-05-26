@@ -1,0 +1,74 @@
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Build and Output
+target/
+dist/
+build/
+out/
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.db
+*.sqlite
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+.m2/
+.mvn/wrapper/maven-wrapper.properties
+
+# Eclipse
+.metadata
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# Spring Boot
+application-dev.yml
+application-prod.yml 
