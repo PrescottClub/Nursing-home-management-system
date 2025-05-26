@@ -238,14 +238,6 @@ We welcome contributions in any form! Please read [CONTRIBUTING.md](CONTRIBUTING
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-If you encounter any issues while using the system, please contact us through:
-
-- 📧 Email: support@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/PrescottClub/Nursing-home-management-system/issues)
-- 📖 Documentation: [Project Wiki](https://github.com/PrescottClub/Nursing-home-management-system/wiki)
-
 ## 🌟 Acknowledgments
 
 - Thanks to all contributors who participated in this project
