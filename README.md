@@ -491,8 +491,7 @@ cp -r dist/* /var/www/html/
 
 ## 📞 联系我们
 
-- **项目创建者**：[Terence Qin](https://github.com/PrescottClub)
-- **技术负责人**：[@PrescottClub](https://github.com/PrescottClub)
+- **项目作者**：[Terence Qin (@PrescottClub)](https://github.com/PrescottClub)
 - **邮箱**：jger8276@gmail.com
 - **技术支持**：欢迎提交 [Issues](https://github.com/PrescottClub/Nursing-home-management-system/issues) 或 [Discussions](https://github.com/PrescottClub/Nursing-home-management-system/discussions)
 
