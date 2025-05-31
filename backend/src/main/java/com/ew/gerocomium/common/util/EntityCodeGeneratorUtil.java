@@ -40,7 +40,7 @@ public class EntityCodeGeneratorUtil {
         dsc.setUrl("jdbc:mysql://127.0.0.1:3306/gerocomium?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8");
         dsc.setDriverName("com.mysql.cj.jdbc.Driver");
         dsc.setUsername("root");
-        dsc.setPassword("242680");
+        dsc.setPassword("请修改为实际密码"); // TODO: 从配置文件读取或使用环境变量
         dsc.setDbType(DbType.MYSQL); // 使用的是mysql
         mpg.setDataSource(dsc);
 
