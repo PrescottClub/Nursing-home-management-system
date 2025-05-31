@@ -12,8 +12,17 @@ const axios = baseAxios.create({
 
 // 请求拦截器
 axios.interceptors.request.use((config: any) => {
-  const token = JSON.parse(localStorage.getItem("stateData")!)?.app?.token;
-  config.headers.token = token;
+  try {
+    const stateData = localStorage.getItem("stateData");
+    if (stateData) {
+      const token = JSON.parse(stateData)?.app?.token;
+      if (token) {
+        config.headers.token = token;
+      }
+    }
+  } catch (error) {
+    console.warn("Failed to parse token from localStorage:", error);
+  }
   return config;
 });
 
