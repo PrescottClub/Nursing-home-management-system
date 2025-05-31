@@ -147,9 +147,10 @@ try {
 ## 📞 后续支持
 
 如有任何问题或需要进一步的技术支持，请联系：
-- 邮箱：prescottchun@163.com
-- GitHub Issues：提交技术问题
-- 技术交流群：123456789
+- 项目创建者：Terence Qin
+- 邮箱：jger8276@gmail.com
+- GitHub Issues：提交技术问题和Bug反馈
+- GitHub Discussions：技术讨论和经验分享
 
 ---
 

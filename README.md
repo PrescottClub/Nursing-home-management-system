@@ -20,6 +20,8 @@
 
 智慧养老院管理系统是一套基于 **Spring Boot 3.x + Vue 3 + TypeScript** 构建的现代化养老院综合管理平台。系统采用前后端分离架构，提供营销管理、入住管理、人员管理、服务管理、物资管理、餐饮管理、费用管理等全业务流程数字化解决方案。
 
+> 💡 **项目愿景**：由 [Terence Qin](https://github.com/PrescottClub) 发起并主导开发，致力于通过现代化技术手段，为养老行业提供高效、安全、易用的数字化管理解决方案，让科技真正服务于养老事业。
+
 ### 🎯 设计理念
 
 - **以人为本**：围绕老人、家属、员工三大核心用户群体设计
@@ -481,15 +483,18 @@ cp -r dist/* /var/www/html/
 
 ## 🙏 致谢
 
-- 感谢所有参与本项目的贡献者
+- 感谢项目创始人 **Terence Qin** 的技术愿景和持续投入
+- 感谢所有参与本项目的贡献者和支持者
 - 特别感谢开源社区提供的优秀工具和库
-- 感谢现代化养老院管理实践的启发
+- 感谢现代化养老院管理实践的启发和指导
+- 感谢每一位关注养老事业数字化发展的朋友
 
 ## 📞 联系我们
 
-- **项目维护者**：[@PrescottClub](https://github.com/PrescottClub)
-- **邮箱**：prescottchun@163.com
-- **QQ群**：123456789 (智慧养老技术交流群)
+- **项目创建者**：[Terence Qin](https://github.com/PrescottClub)
+- **技术负责人**：[@PrescottClub](https://github.com/PrescottClub)
+- **邮箱**：jger8276@gmail.com
+- **技术支持**：欢迎提交 [Issues](https://github.com/PrescottClub/Nursing-home-management-system/issues) 或 [Discussions](https://github.com/PrescottClub/Nursing-home-management-system/discussions)
 
 ---
 
